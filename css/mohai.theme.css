@@ -1,0 +1,22 @@
+.shahali-theme .owl-buttons div{color:#fff;display:inline-block;}
+.shahali-theme .owl-buttons div:hover{opacity:0.6}
+.shahali-theme .owl-buttons div.owl-prev{
+	border: 1px solid #fff;
+	font-size: 17px;
+	margin-left: 2px;
+	margin-top: -12px;
+	padding: 0 8px 0 10px;
+	position: absolute;
+	left: 50%;
+	top: 60%;
+}
+.shahali-theme .owl-buttons div.owl-next{
+	border: 1px solid #fff;
+	font-size: 17px;
+	margin-right: 2px;
+	margin-top: -12px;
+	padding:0 10px 0 8px;
+	position: absolute;
+	right: 50%;
+	top: 60%;
+}
